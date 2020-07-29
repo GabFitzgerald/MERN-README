@@ -6,17 +6,17 @@ https://free-space.gq/
 
 ## GitHub repository (R12)
 
-Deployed Front End Site: https://free-space.gq/
+- Deployed Front End Site: https://free-space.gq/
 
-Deployed Back End Site: https://free-space-api.herokuapp.com/
+- Deployed Back End Site: https://free-space-api.herokuapp.com/
 
-Github Repo Part A docs: https://github.com/lukelovekin/CA-MERN-Stack-Part-A
+- Github Repo Part A docs: https://github.com/lukelovekin/CA-MERN-Stack-Part-A
 
-Github Repo Part B docs: https://github.com/GabFitzgerald/MERN-README
+- Github Repo Part B docs: https://github.com/GabFitzgerald/MERN-README
 
-Github Repo Part B Front-End: https://github.com/lukelovekin/FreeSpace-FrontEnd
+- Github Repo Part B Front-End: https://github.com/lukelovekin/FreeSpace-FrontEnd
 
-Github Repo Part B Back-End: https://github.com/lukelovekin/FreeSpace-BackEnd-Api
+- Github Repo Part B Back-End: https://github.com/lukelovekin/FreeSpace-BackEnd-Api
 
 ## Project Management Methodology
 
