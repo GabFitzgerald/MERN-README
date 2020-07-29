@@ -39,6 +39,16 @@ Github Repo Part B Back-End: https://github.com/lukelovekin/FreeSpace-BackEnd-Ap
 <summary><strong>Production</strong></summary>
 
 
+User 1: successfully uploaded profile pic
+
+User 2: Images on about page not displaying
+
+User 3: i think current major issue is, user could create multiple portfolios, but since the second and after, the pictures and info are saved and link is "https://free-space.gq/portfolios/undefined" so not available to reuse,and after serveral portfolio, the linkable portfolio missing edit button
+
+User 4 looks good.  Issues:  Some pictures not displaying on welcome page and about, in the edit portfolio page the button to update didn't do anything.  When i was logged out the url with my portfolio had a delete button.
+
+
+
 </details>
 
 ## CA-MERN-Stack-Part-A (R13)
