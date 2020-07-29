@@ -36,8 +36,6 @@ Github Repo Part B Back-End: https://github.com/lukelovekin/FreeSpace-BackEnd-Ap
 
 </details>
 
-
-
 ## CA-MERN-Stack-Part-A (R13)
 
 T3A2-A MERN Stack Project Part A | Gabby, Pedro, Luke.
