@@ -13,8 +13,6 @@ Github Repo Part B docs: https://github.com/GabFitzgerald/MERN-README
 Github Repo Part B Front-End: https://github.com/lukelovekin/FreeSpace-FrontEnd
 Github Repo Part B Back-End: https://github.com/lukelovekin/FreeSpace-BackEnd-Api
 
-
-
 ## Project Management Methodology
 
 
