@@ -24,14 +24,14 @@ Github Repo Part B Back-End: https://github.com/lukelovekin/FreeSpace-BackEnd-Ap
 ## Evidence of User Testing
 
 <details closed>
-<summary> <strong> In Development </strong> </summary>
+<summary><strong>Development</strong></summary>
 
 
 
 </details>
 
 <details closed>
-<summary> <strong> In Production </strong> </summary>
+<summary><strong>Production</strong></summary>
 
 
 </details>
