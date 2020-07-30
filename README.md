@@ -17,6 +17,13 @@
 <details closed>
 <summary><strong>Development</strong></summary>
 
+- Uploading multiple photos isn’t great
+- Form/Field validations
+- Non google auth sign in (i have it working i jut feel like its buggy)
+- Make social links clickable
+- There is no information on the about page. Response: Information about the application was added to the about page.
+- Owners portfolio url could use their name and not an index value
+- Move the delete button off the portfolio page and onto the portal page
 
 
 </details>
