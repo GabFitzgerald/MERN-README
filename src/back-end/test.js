@@ -4,6 +4,7 @@ const { assert, expect } = require("chai")
 const TestPortfolio = require("./models/portfolio")
 // const mocha = require('mocha')
 
+// gets all portfolios
 describe("/portfolios", () => {
     describe("GET /portfolios", () => {
         it("should get the portfolios", done => {
@@ -17,6 +18,8 @@ describe("/portfolios", () => {
                     })
         })    
     })
+
+    // gets on database
     describe("GET /portfolios/:id", () => {
         it("should get a portfolio", done => {
             request(app)
@@ -24,11 +27,13 @@ describe("/portfolios", () => {
                 .expect(200)
                 .end(function(error, response) {
                     if (error) return done(error)
-                    assert(response.body, [])
+                    assert(response.body, "")
                     done()
                 })
         })
     })
+
+    // post to portfolios (user: user._id breaks these two test)
     describe("POST /portfolios", () => {
         it("should save to the database", done => {
             request(app)
@@ -44,6 +49,8 @@ describe("/portfolios", () => {
                 .expect(400, done)
         })
     })
+
+    // deltes one portfolio
     describe("DELETE /portfolios/:id", () => {
         it("should delete the portfolio", done => {
             request(app)
@@ -53,9 +60,4 @@ describe("/portfolios", () => {
     })
 })
 
-// describe('/users', () => {
-//     describe()
-// })
 
-// before(() => {})
-// after(() => {})
