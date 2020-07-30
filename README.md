@@ -25,12 +25,12 @@
 - Owners portfolio url could use their name and not an index value
 - Move the delete button off the portfolio page and onto the portal page
 
-
 </details>
 
 <details closed>
 <summary><strong>Production</strong></summary>
 
+The link to our deployed site was sent out to various developers, and non-developers and the following is a summary of the feedback received.
 
 User 1: successfully uploaded profile pic
 
@@ -41,8 +41,6 @@ User 3: i think current major issue is, user could create multiple portfolios, b
 ![evidence of user testing](./docs/evidence_of_user_testing.png)
 
 User 4 looks good.  Issues:  Some pictures not displaying on welcome page and about, in the edit portfolio page the button to update didn't do anything.  When i was logged out the url with my portfolio had a delete button.
-
-
 
 </details>
 
@@ -242,7 +240,7 @@ Prototyping for all screen sizes complete. Mobile and tablet logout buttons adde
 
 Trello Board Link: https://trello.com/b/vcGGvVN7/mern-stack-assessment
 
-Starting with the planning stage of the project, after thoroughly going over the criteria of the assignment and Rubrik, Our team started with Minimum Viable Product (MVP) ideas. Starting with a Trello board, We split up the assignment's MVP requirements into To-Do cards as well as MVP user stories. The cards include checklists, dates to be completed as well as colour coded labels (red being MVP, most important) to highlight their importance as well as their difficulty/time cost. After the Trello board we set up and layout our Git Repositories adding each of the group users ready for collaborationa and rest of the project. 
+Starting with the planning stage of the project, after thoroughly going over the criteria of the assignment and Rubrik, Our team started with Minimum Viable Product (MVP) ideas. Starting with a Trello board, We split up the assignment's MVP requirements into To-Do cards as well as MVP user stories. The cards include checklists, dates to be completed as well as colour coded labels (red being MVP, most important) to highlight their importance as well as their difficulty/time cost. After the Trello board we set up and layout our Git Repositories adding each of the group users ready for collaborations and rest of the project. 
 
 Our team refers back to the Trello board at least every morning and afternoon, if not every time we finish a tasks.  Most important cards are discussed first and ee move cards that we aim to do on that day into the "Doing" column, move cards into the "Done" column when they are complete as well as constantly adding more User Stories and To Dos to their columns to at least aim to complete.
 
